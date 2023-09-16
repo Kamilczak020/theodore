@@ -1,0 +1,26 @@
+.borderOuter {
+	border: 2px solid #404749;
+   	height: 99%;
+    width: 98%;
+    padding: 6px;
+    margin: 0 auto;
+}
+
+.borderMiddle {
+    border: 6px solid #404749;
+    height: 100%;
+    width: 100%;
+    padding: 6px;
+    margin: auto;
+}
+
+.borderInner {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+	position: relative;
+	border: 2px solid #404749;
+  height: 100%;
+  width: 100%;
+}
+
